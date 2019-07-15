@@ -23,7 +23,7 @@ export default {
         bookAuthor: "",
         finishedReading: false,
         ownership: []
-      }
+      },
     };
   },
   methods: {
